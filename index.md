@@ -56,3 +56,18 @@ Due to this being a mini, we will do our best to skirt into a new topic each and
 - **Day 13** (06/27): OPEN - Guest Lecture
 
 *Schedule with assignments, readings, etc. can be found [here](schedule.html)*
+
+## Alternative Schedule
+- [**Day 1**](syllabus/1-Introduction.html) (05/16): Introduction to Artificial Intelligence
+- [**Day 2**](syllabus/2-Fundamentals-of-Quantum-Computing-Continued.html) (05/18): Exploring Quantum Computing
+- [**Day 3**](syllabus/3-Introduction-to-AI-ML-and-DL.html) (05/23): Fundamentals of Generative Models in Machine Learning
+- [**Day 4**](syllabus/4-Fundamentals-of-Generative-Models.html) (05/25): Understanding Language Models
+- [**Day 5**](syllabus/5-Fundamentals-of-LLMs.html) (05/30): Implementing Generative Artificial Intelligence Software
+- [**Day 6**](syllabus/6-Software-Implementation-of-Generative-AIs.html) (06/01): Practical Applications of Language Models
+- [**Day 7**](syllabus/7-LLM-Implementations.html) (06/06): Quantum Programming Languages and Quantum Computing
+- [**Day 8**](syllabus/8-Quantum-Programming-Languages.html) (06/08): Quantum Generative Models and their Applications
+- [**Day 9**](syllabus/9-Quantum-Generative-Models.html) (06/13): Exploring Langchain Technology
+- [**Day 10**](syllabus/10-Langchain.html) (06/15): Data Preparation and Finetuning for Language Models
+- [**Day 11**](syllabus/11-LLM-Data-Preparation-and-Finetuning.html) (06/20): Language Models in Machine Learning and Quantum Computing
+- [**Day 12**](syllabus/12-LLMs-in-Machine-Learning-and-Quantum-Computing.html) (06/22): OPEN - Guest Lecture
+- **Day 13** (06/27): Final Project Presentation and Wrap-up
